@@ -5,7 +5,6 @@ public class Student {
     private String name;
     private String groupName;
 
-    // конструкторы, геттеры и сеттеры
     public Student() {
     }
 
@@ -15,7 +14,6 @@ public class Student {
         this.groupName = groupName;
     }
 
-    // геттеры и сеттеры
     public Long getId() {
         return id;
     }
