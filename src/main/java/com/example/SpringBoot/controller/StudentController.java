@@ -1,4 +1,4 @@
-package main.java.com.example.SpringBoot.controller;
+package com.example.SpringBoot.controller;
 
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package main.java.com.example.SpringBoot.model;
+package com.example.SpringBoot.model;
 
 public class Student {
     private Long id;

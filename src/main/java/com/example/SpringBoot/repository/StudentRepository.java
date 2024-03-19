@@ -1,4 +1,4 @@
-package main.java.com.example.SpringBoot.repository;
+package com.example.SpringBoot.repository;
 
 import main.java.com.example.SpringBoot.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
